@@ -1,0 +1,1 @@
+cp ../../../../../out/target/product/te12/obj_arm/STATIC_LIBRARIES/librtmp_intermediates/librtmp.a .
